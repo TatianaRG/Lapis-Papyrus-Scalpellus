@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue');
+
+body {
+  font-family: 'Bebas Neue', cursive;
+}
+
+#lapis {
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  padding: 5px;
+  background-color: red;
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+}
+
+#papyrus {
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  padding: 5px;
+  background-color: green;
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+}
+
+#scalpellus {
+  width: 80px;
+  height: 30px;
+  text-align: center;
+  padding: 5px;
+  background-color: blue;
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+}
